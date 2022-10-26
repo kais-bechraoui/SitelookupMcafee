@@ -8,16 +8,8 @@ import os
 import sys
 
 INPUT_FILE = "sample.csv"
-#URL_COLUMN_NAME = "url"
-#URL_CATEGORY_COLUMN_NAME = "url_class"
-CLASSIFIER_API = "https://sitelookup.mcafee.com/en/feedback/url"
-
-CURRENT_PART = 1
-ALL_PART = 1
 
 #################################################
-import requests
-from bs4 import BeautifulSoup
 
 def setup():
     headers = {
@@ -71,8 +63,7 @@ for line in file1:
     #print (line.strip())
     url=line.strip()
     print (url)
-
-    #url = input('Enter a valid domain / url to check: ')
+ 
     headers, token1, token2 = setup()
     categorized, category, risk = lookup(headers, token1, token2, url)
     print('\033[1m' + 'Staus: {0}     |     Category: {1}     |     Risk: {2}'.format(categorized, category, risk) + '\033[0m')
@@ -81,8 +72,7 @@ for line in file1:
     file2.write(categorized+';')
     file2.write(category+';')
     file2.write(risk +'\n')
-    #file2.write("World\n")
+    
 file2.close()
 
 file1.close()
-file2.close()
