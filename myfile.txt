@@ -1,0 +1,122 @@
+actonsoftware.com;Categorized URL;Internet Services;Minimal Risk
+adobe.activate.com;Categorized URL;Internet Services;Minimal Risk
+adobe.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+adobelogin.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+android.com;Categorized URL;Software/Hardware;Minimal Risk
+ansible.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+apache.org;Categorized URL;Software/Hardware;Minimal Risk
+apple.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+appstore.com;Categorized URL;Business;Minimal Risk
+belnet.be;Categorized URL;Education/Reference- Government/Military;Minimal Risk
+bing.com;Categorized URL;Search Engines;Minimal Risk
+bintray.com;Categorized URL;Software/Hardware;Minimal Risk
+bluecoat.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+cddbp.net;Categorized URL;Internet Services;Minimal Risk
+cdn-apple.com;Categorized URL;Content Server- Internet Services;Minimal Risk
+cloudflare.com;Categorized URL;Internet Services;Minimal Risk
+crashlytics.com;Categorized URL;Software/Hardware;Minimal Risk
+crazyegg.com;Categorized URL;Internet Services;Minimal Risk
+cu.be;Categorized URL;Business- Software/Hardware;Minimal Risk
+eurorateforecast.com;Categorized URL;Finance/Banking;Minimal Risk
+fabric.io;Categorized URL;Interactive Web Applications;Minimal Risk
+fbcdn.net;Categorized URL;Content Server- Social Networking;Minimal Risk
+fontawesome.com;Categorized URL;Software/Hardware;Minimal Risk
+freedesktop.org;Categorized URL;Technical Information;Minimal Risk
+ggpht.com;Categorized URL;Content Server;Minimal Risk
+github.com;Categorized URL;Technical/Business Forums;Minimal Risk
+githubusercontent.com;Categorized URL;Technical/Business Forums;Minimal Risk
+gnu.org;Categorized URL;Non-Profit/Advocacy/NGO- Software/Hardware;Minimal Risk
+google.be;Categorized URL;Search Engines;Minimal Risk
+google.com;Categorized URL;Search Engines;Minimal Risk
+googleadservices.com;Categorized URL;Web Ads;Minimal Risk
+google-analytics.com;Categorized URL;Internet Services;Minimal Risk
+googleapis.com;Categorized URL;Internet Services;Minimal Risk
+googletagmanager.com;Categorized URL;Internet Services;Minimal Risk
+googleusercontent.com;Categorized URL;Content Server;Minimal Risk
+gradle.org;Categorized URL;Business- Software/Hardware;Minimal Risk
+gstatic.com;Categorized URL;Content Server- Internet Services;Minimal Risk
+gvt1.com;Categorized URL;Internet Services;Minimal Risk
+icloud.com;Categorized URL;Personal Network Storage- Interactive Web Applications;Minimal Risk
+java.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+jetbrains.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+jfrog.org;Categorized URL;Software/Hardware;Minimal Risk
+kernel.org;Categorized URL;Software/Hardware;Minimal Risk
+maven.org;Categorized URL;Software/Hardware;Minimal Risk
+mirrorservice.org;Categorized URL;Software/Hardware;Minimal Risk
+mzstatic.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+openssl.org;Categorized URL;Software/Hardware;Minimal Risk
+oracle.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+pardot.com;Categorized URL;Business;Minimal Risk
+python.org;Categorized URL;Technical Information;Minimal Risk
+pythonhosted.org;Categorized URL;Technical Information;Minimal Risk
+pyyaml.org;Categorized URL;Software/Hardware;Minimal Risk
+qaHiddenwebsiteblabla.be;Uncategorized URL;;Unverified
+scorecardresearch.com;Categorized URL;Business;Minimal Risk
+segment.com;Categorized URL;Business;Minimal Risk
+segment.io;Categorized URL;Internet Services;Minimal Risk
+sqlite.org;Categorized URL;Technical Information;Minimal Risk
+symcb.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+symcd.com;Categorized URL;Software/Hardware;Minimal Risk
+trackjs.com;Categorized URL;Internet Services;Minimal Risk
+wikipedia.org;Categorized URL;Education/Reference- Blogs/Wiki;Minimal Risk
+wistia.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+wrike.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+yahoo.com;Categorized URL;Portal Sites;Minimal Risk
+yelp.com;Categorized URL;Public Information;Minimal Risk
+yelpcdn.com;Categorized URL;Content Server;Minimal Risk
+ytimg.com;Categorized URL;Streaming Media- Content Server;Minimal Risk
+echonet;URL not valid;; 
+intra-services.fortisbank.com;Categorized URL;Finance/Banking;Minimal Risk
+itec.bnpparibas.com;Categorized URL;Finance/Banking;Minimal Risk
+ssoforms.bnpparibas.com;Categorized URL;Finance/Banking;Minimal Risk
+globalmarkets.bnpparibas.com;Categorized URL;Finance/Banking;Minimal Risk
+directory.echonet;URL not valid;; 
+weborama.fr;Categorized URL;Marketing/Merchandising;Minimal Risk
+diligense-internat.ctlmcof.fr;Categorized URL;Internet Services;Minimal Risk
+gm-ws.uk.net.intra;URL not valid;; 
+ssoforms-internet.staging.echonet;URL not valid;; 
+swiftnet.sipn.swift.com;Categorized URL;Finance/Banking;Minimal Risk
+ctlmcof.fr;Categorized URL;Internet Services;Minimal Risk
+webtrekk.net;Categorized URL;Internet Services;Minimal Risk
+sit.mobility-managed.com;Categorized URL;Business;Minimal Risk
+wiki.dfd-hamburg.de;Categorized URL;Parked Domain;Unverified
+www.itshop.net;Categorized URL;Parked Domain;Unverified
+license.alteryx.com;Categorized URL;Business;Minimal Risk
+gallery.alteryx.com;Categorized URL;Business;Minimal Risk
+pages.alteryx.com;Categorized URL;Business;Minimal Risk
+mktoresp.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+fno.devops.alteryx.com;Categorized URL;Business;Minimal Risk
+licenses.alteryx.com;Categorized URL;Business;Minimal Risk
+api.staging.bnpparibas-ip.com;Categorized URL;Business;Minimal Risk
+app.Hiddenwebsiteblabla.test2access.qafintro.be;Categorized URL;Content Server;Minimal Risk
+app.Hiddenwebsiteblabla.testaccess.qafintro.be;Categorized URL;Content Server;Minimal Risk
+ara.itp.echonet;URL not valid;; 
+ara-webservice-ssl.group.echonet;URL not valid;; 
+bitbucket.org;Categorized URL;Business- Software/Hardware;Minimal Risk
+browserstack.com;Categorized URL;Internet Services;Minimal Risk
+cloudfront.net;Categorized URL;Content Server;Minimal Risk
+console.developers.google.com;Categorized URL;Internet Services;Unverified
+cypress.io;Categorized URL;Software/Hardware;Minimal Risk
+developer.android.com;Categorized URL;Software/Hardware;Minimal Risk
+docker.io;Categorized URL;Business- Software/Hardware;Minimal Risk
+Hiddenwebsiteblabla.m1.qafintro.be;Categorized URL;Content Server;Minimal Risk
+Hiddenwebsiteblabla.p1.qafintro.be;Categorized URL;Content Server;Minimal Risk
+Hiddenwebsiteblabla.qaHiddenwebsiteblabla.be;Uncategorized URL;;Unverified
+Hiddenwebsiteblabla.qafintro.be;Categorized URL;Content Server;Minimal Risk
+Hiddenwebsiteblabla.test2access.qaHiddenwebsiteblabla.be;Uncategorized URL;;Unverified
+Hiddenwebsiteblabla.testaccess.qaHiddenwebsiteblabla.be;Uncategorized URL;;Unverified
+gitlab.com;Categorized URL;Internet Services;Minimal Risk
+m1.Hiddenwebsiteblabla.qaHiddenwebsiteblabla.be;Uncategorized URL;;Unverified
+m1.secure.qahellobank.be;Categorized URL;Internet Services;Minimal Risk
+nodejs.org;Categorized URL;Software/Hardware;Minimal Risk
+octane.echonet;URL not valid;; 
+octane.staging.echonet;URL not valid;; 
+p1.Hiddenwebsiteblabla.qaHiddenwebsiteblabla.be;Uncategorized URL;;Unverified
+p1.secure.qahellobank.be;Categorized URL;Internet Services;Minimal Risk
+play.google.com;Categorized URL;Shareware/Freeware;Minimal Risk
+production.cloudflare.docker.com;Categorized URL;Business- Software/Hardware;Minimal Risk
+pypi.org;Categorized URL;Software/Hardware;Minimal Risk
+registry.npmjs.org;Categorized URL;Technical Information;Minimal Risk
+registry-gitlab-com.s3.amazonaws.com;Categorized URL;Internet Services;Minimal Risk
+repo1.maven.org;Categorized URL;Software/Hardware;Minimal Risk
+rubygems.org;Categorized URL;Software/Hardware;Minimal Risk
